@@ -1,4 +1,5 @@
 extern crate nalgebra_glm as glm;
+mod webgl;
 
 use std::{
     cell::RefCell,
